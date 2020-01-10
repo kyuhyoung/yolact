@@ -28,6 +28,7 @@ Some examples from our YOLACT base model (33.5 fps on a Titan Xp and 29.8 mAP on
 
 ![Example 2](data/yolact_example_2.png)
 
+
 # Installation
  - Set up a Python3 environment.
  - Install [Pytorch](http://pytorch.org/) 1.0.1 (or higher) and TorchVision.
